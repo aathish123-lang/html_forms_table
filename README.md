@@ -1,7 +1,7 @@
 # 🎓 Student Registration Form
 
 ## 📌 About the Project
-This is a simple Student Registration Form created using HTML.  
+This is a simple Student Registration Form created using HTML CSS.  
 It collects student details such as name, email, password, gender, skills, and date of birth.  
 It also displays dummy student data in a table.
 
@@ -16,7 +16,9 @@ It also displays dummy student data in a table.
 - 📋 Student details displayed in a table
 
 ## 🛠️ Technologies Used
-- 🌐 HTML5
+     HTML5
+     CSS3
+
 
 ## 📂 Project Contents
 - `index.html` — Student Registration Form webpage
